@@ -1,11 +1,14 @@
-
+import React from 'react';
 import './App.css';
-import main_header from './main__header/main_header';
+import MAIN from './main__header/main_header';
+import NavFooter from './NAV-FOOTER/sidebar-footer';
 
 function App() {
   return (
-   
-    <main_header/>
+    <>
+      <NavFooter />
+      <MAIN />
+    </>
   );
 }
 
