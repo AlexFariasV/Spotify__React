@@ -13,7 +13,7 @@ Este é um projeto desenvolvido durante a imersão Front-end do Alura, que consi
 
 #
 # Instalação 
-#
+
 
 #### Clone o repositório: 
 - git clone https://github.com/AlexFAriasV/spotify-clone.git
