@@ -12,7 +12,7 @@ Este é um projeto desenvolvido durante a imersão Front-end do Alura, que consi
 - framework: React 
 
 #
- Instalação 
+# Instalação 
 #
 
 #### Clone o repositório: 
